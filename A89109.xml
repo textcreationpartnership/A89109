@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent from the officers &amp; souldiers in the Army, to the Kings Majesty in the Isle of Wyght, on Wednesday Novemb. 22. 1648. Communicating their last and finall resolutions, touching their disposall of his royal person. And their remonstrance and proposalls, for the executing of speedy justice, upon King, Lords, and Commons, who have acted contrary to the trust reposed in them by the people. With the charge of the Army thereupon, and their articles of high treason. By the appointment of his Excellency, the Lord Generall, and the generall Councell of Officers. Signed, John Rushworth Secr.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89109</idno>
+            <idno type="STC">Wing M1907</idno>
+            <idno type="STC">Thomason E473_16</idno>
+            <idno type="STC">ESTC R205254</idno>
+            <idno type="EEBO-CITATION">99864671</idno>
+            <idno type="PROQUEST">99864671</idno>
+            <idno type="VID">162437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent from the officers &amp; souldiers in the Army, to the Kings Majesty in the Isle of Wyght, on Wednesday Novemb. 22. 1648. Communicating their last and finall resolutions, touching their disposall of his royal person. And their remonstrance and proposalls, for the executing of speedy justice, upon King, Lords, and Commons, who have acted contrary to the trust reposed in them by the people. With the charge of the Army thereupon, and their articles of high treason. By the appointment of his Excellency, the Lord Generall, and the generall Councell of Officers. Signed, John Rushworth Secr.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Williamson, and are to be sold in St. Danstons [sic] Church-yard, near Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162437:1" rendition="simple:additions"/>
+            <p>A MESSAGE SENT FROM THE OFFICERS &amp; SOULDIERS IN THE ARMY, TO THE Kings Majeſty in the Iſle of Wyght, on Wedneſday Novemb. 22. 1648. Communicating their laſt and finall Reſolutions, touching their diſpoſall of his Royall Perſon. And their Remonſtrance and Propoſalls, for the executing of ſpeedy Juſtice, upon King, Lords, and Com<g ref="char:EOLhyphen"/>mons, who have acted contrary to the truſt repoſed in them by the People.</p>
+            <p>With the Charge of the Army thereupon, and their Articles of High Treaſon.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>BY the appointment of his Excellency, the Lord Generall, and the generall Councell of Officers.</p>
+                        <closer>
+                           <signed>Signed, John Ruſhworth Secr.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for R. Williamſon, and are to be ſold in St. Danſtons Church-yard, near Temple-Barre, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162437:2"/>
+            <pb n="1" facs="tcp:162437:2"/>
+            <head>The Armies Meſſage and Remonſtrance.</head>
+            <p>VVHereas we have endeavoured to Remonſtrate the danger and evill of the way you are in, and cleared the way unto what we have to propoſe, we ſhall with the ſame plainneſſe and faithful<g ref="char:EOLhyphen"/>neſſe, give you our apprehenſions of the remedies; for which pur<g ref="char:EOLhyphen"/>poſe upon all the reaſons and conſiderations aforegoing, we pro<g ref="char:EOLhyphen"/>ceed to offer, as followeth.</p>
+            <p>Firſt, we conceive and hope, that from what hath before been ſaid, you may find abundant cauſe to forbear any further procee<g ref="char:EOLhyphen"/>ding in this evill and moſt dangerous Treaty, and to return to your former grounds in the Votes of Non-addreſſes, and thereupon proceed to the ſetling and ſecuring of the Kingdom without and againſt the King, upon ſuch foundations as hereafter are tendred; but if notwithſtanding all the evills and dangers remonſtrated to lie even in the Treaty it ſelf, you will ye proceed in ſuch an evill way, we ſhall at leaſt deſire that you make ſure to avoid that main venome and miſchief attending it. viz. The Kings reſtitution with impunity, &amp;c. and that imperfect bargaining for partiall juſtice againſt inferiour offenders; And for the avoidance of theſe, we propound.</p>
+            <p>1. That you would reject thoſe demands of the King, ſent to you on his and his Parties behalf, and (eſpecially in relation to that concerning his reſtitution or return to London with freedom, &amp;c.) that it may be expreſly declared and provided by you, that, notwithſtanding any thing concluded, or to be concluded in this Treaty, the Perſon of the King may, and ſhall be proceeded a<g ref="char:EOLhyphen"/>gainſt in a way of juſtice, for the blood ſpilt, and the other evills
+<pb n="2" facs="tcp:162437:3"/>and miſchiefs done by him, or by his Commiſſion, Command or Procurement, and in order thereto ſhall be kept in ſafe cuſtody as formerly.</p>
+            <p>2. That for other Delinquents you would lay a ſide that parti<g ref="char:EOLhyphen"/>cular bargaining Propoſition, which as we underſtand, the King hath refuſed in the termes you offered, and whereby all your ju<g ref="char:EOLhyphen"/>ſtice and mercy too would be rendred, to be dependant upon par<g ref="char:EOLhyphen"/>ticular contract, with, and grant from the King; and not upon the judiciall power of the Kingdom in Parliament; We therefore deſire.</p>
+            <p n="1">1. That that capitall and grand Authour of our troubles, the Perſon of the King, by whoſe Commiſſions, Commands, or pro<g ref="char:EOLhyphen"/>curement, and in whoſe behalf, and for whoſe intereſt only, (of will and power) all our Warres and troubles have been, (with all the miſeries attending them,) may be ſpeedily brought to juſtice, for the treaſon, blood and miſchief, he is therein guilty of.</p>
+            <p n="2">2. That a timely and peremptory day may be ſet for the Prince of Wales, and the Duke of York, to come in and render them<g ref="char:EOLhyphen"/>ſelves, by which time (if they do not) that then they may be im<g ref="char:EOLhyphen"/>mediatly declared incapable of any Government, or truſt in this Kingdom, or the Dominions thereunto belonging, or of any kind of Right within the ſame, and thence to ſtand exiled for ever, as enemies and traytors, to dye without mercy, if ever after found and taken therein;) or if by the time limited, they or either of them do render themſelves, that then the Prince for his Capitall Delin<g ref="char:EOLhyphen"/>quency (being in appearance next unto his Fathers,) may either be proceeded againſt in juſtice, or remitted, according as upon his appearance he ſhall give ſatisfaction or not; concerning his being drawn into the rebellious engagements, he has appeared to head; and the Dake, as he ſhall give ſatisfaction, or not concerning his carriage in and ſince his going out of the Kingdom (being without leave) and in oppoſition or contempt of the Parliament and to the prejudice of the publike peace,) may accordingly be conſidered as to future truſt, or not; But (however) that the Eſtate and Revenue of the Crown may be ſequeſtred, and all the matter of coſtly pomp or ſtate ſuſpended for a good number of years, while the deſola ion and ſpoyles of the poor people made, by and in behalf
+<pb n="3" facs="tcp:162437:3"/>of that Family, and for that vain intereſt (the ſtate and greatneſſe thereof) may be in good meaſure repaired, or recovered; And that the Revenue (ſaving neceſſary allowances for the Childrens main<g ref="char:EOLhyphen"/>tenance, and to old Servants and creditors of the Crown, not De<g ref="char:EOLhyphen"/>linquents) and alſo the 100000 l. per annum, Voted to the Crown in Liew of the Court of Wards, may for thoſe years be diſpoſed towards publike charges, debts and dammages for the eaſing and leſſoning of the peoples Contributions towards the ſame; ſo as the Eſtates neither of the friends to publike intereſt, nor alone of the inferiour Enemies thereto, may bear wholly the burthen of that loſſe and charge, which by and for that Family, the Kingdom or the good people thereof have bin or (for future ſecurity) ſhall be put unto.</p>
+            <p n="3">3. That for further ſatisfaction to publike juſtice, Capitall puniſhment may be ſpeedily executed upon a competent number of his chief inſtruments alſo, both in the former and latter War, and (for that purpoſe) that ſome ſuch, of both ſorts, may be pitcht upon to be made examples of juſtice in that kind, as are re<g ref="char:EOLhyphen"/>ally in your hands or reach, ſo as their exception from pardon, may not be a mockery of Juſtice in the face of God and men.</p>
+            <p n="4">4. That the ſatisfaction of Arrears to the Souldiery. with o<g ref="char:EOLhyphen"/>ther publike debts. and the competent reparation of publike Da<g ref="char:EOLhyphen"/>mages, (eſpecially and primarily of ſuch as voluntarily engaged for, and have conſtantly adhered to the common Cauſe, and ſuf<g ref="char:EOLhyphen"/>fered for the ſame) may be put into ſome orderly and equall, or proportionable way, &amp;c.</p>
+            <p>Now (after publike juſtice, had therewith the preſent quieting of the Kingdom thus far provided for) we proceed in order, to the generall ſatisfaction, and ſetling of the Kingdom, as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p n="1">1. That you would ſet ſome reaſonable and certain period to your own power, by which time that great and ſupream truſt re<g ref="char:EOLhyphen"/>poſed in you, ſhall be returned into the hands of the people, from, and for whom you received it; that ſo you may give them ſatis<g ref="char:EOLhyphen"/>faction and aſſurance, that what you have contended for, againſt the King (for which they have been put to ſo much trouble, coſt, and loſſe of blood) hath been only for their Liberties and com<g ref="char:EOLhyphen"/>mon Intereſt, and not for your own perſonall Intereſt, or power.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:162437:4"/> 2. That (with a period to this Parliament, to be aſſigned as ſhort as may be, with ſafety to the Kingdom, and publike intereſt thereof) there may be a ſound ſettlement of the peace, and future Government of the Kingdom, upon grounds of common Right, Freedom, and ſafety, to the effect here following.</p>
+            <p n="1">1. That from the end of this, there may be a certain ſucceſſi<g ref="char:EOLhyphen"/>on of future Parliaments (Annuall, or Bienniall) with ſe<g ref="char:EOLhyphen"/>cure proviſion.</p>
+            <p n="1">1. For the certainty of their meeting, ſitting, and ending.</p>
+            <p n="2">2. For the equall diſtribution of Elections thereunto, to render the Houſe of Commons, as near as may be, an equall Repreſenta<g ref="char:EOLhyphen"/>tive of the whole people electing.</p>
+            <p n="3">3. For the certainty of the peoples meeting (according to ſuch Diſtributions) to elect, and for their full freedom in elections, pro<g ref="char:EOLhyphen"/>vided, That none who have ingaged, or ſhall engage in War, a<g ref="char:EOLhyphen"/>gainſt the right of Parliament, and intereſt of the Kingdom there<g ref="char:EOLhyphen"/>in, or have adhered to the enemies thereof, may be capable of e<g ref="char:EOLhyphen"/>lecting, or being elected (at leaſt during a competent number of years) nor any other, who ſhall oppoſe, or not joyn in agreement to this ſettlement.</p>
+            <p n="4">4. For future clearing and aſcertaining the power of the ſaid Repreſentatives; in order to which, That it be declared, That as to the whole intereſt of the people of England) ſuch Repreſenta<g ref="char:EOLhyphen"/>tives have, and ſhall have the ſupream power and truſt, as to the making of Lawes, Conſtitutions, and Offices, for the ordering, pre<g ref="char:EOLhyphen"/>ſervation, and Government of the whole; and as to the altering, and repealing, or aboliſhing of the ſame, the making of War, or peace; and as to the higheſt and finall Judgement, in all civill things, without further appeal to any created ſtanding power, and that all the people of this Nation, and all Officers of Juſtice, and Miniſters of State (as ſuch) ſhall, in all ſuch things be accounta<g ref="char:EOLhyphen"/>ble and ſubject thereunto, and bound and concluded thereby, pro<g ref="char:EOLhyphen"/>vided, That,</p>
+            <p n="1">1. They may not cenſure, or queſtion any man after the end of this Parliament, for any thing ſaid or done in reference to the late Wars, or publique differences, ſaving in execution of ſuch determinations of this Parliament, as ſhall be left in force at the
+<pb n="5" facs="tcp:162437:4"/>ending thereof in relation to ſuch as have ſerved the King againſt the Parliament.</p>
+            <p n="2">2. They may not render up, or give, or take away any the foundations of common Right, Liberty or Safety contained in this ſettlement and agreement. But that the power of theſe two things (laſt mentioned) ſhall be alwayes underſtood to be reſer<g ref="char:EOLhyphen"/>ved from, and not entruſted to the ſaid Repreſentatives.</p>
+            <p n="5">5. For liberty of entring deſſents in the ſaid Repreſentatives. That, in caſe of corruption, or abuſe in theſe matters of higheſt truſt, the People may be in capacity to know who are free therof, and who guilty, to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only they may avoid the futher truſt<g ref="char:EOLhyphen"/>ing of ſuch, but without further penalty to any for their free judgments there.</p>
+            <p n="2">2. That no King be hereafter admitted, but upon the election of, and as upon truſt from the People, by ſuch their Repreſenta<g ref="char:EOLhyphen"/>tives, nor without firſt diſclaming and diſavowing all pretence to a negative voyce, againſt the determinations of the ſaid Repreſen<g ref="char:EOLhyphen"/>tatives, or Commons in Parliament; and that to be done in ſome certain form, more clear then heretofore in the Coronation Oath.</p>
+            <p>Theſe matters of generall ſettlement (viz. That concerning a period to this Parliament, and the other particulars thence fol<g ref="char:EOLhyphen"/>lowing heitherto) we propound, to be declared and provided by this Parl. or by the authority of the Commons therein, and to be further eſtabliſhed by a generall Contract, or Agreement of the people, with their ſubſcriptions thereunto, and that (withall) it may be provided, That none may be capable of any benefit by the Agreement, who ſhall not conſent and ſubſcribe thereunto; nor any King to be admitted to the Crown, or other perſon to any Office, or place of publike truſt, without expreſſe accord, and ſub<g ref="char:EOLhyphen"/>ſcription to the ſame.</p>
+            <p>We have thus plainly, and faithfully propounded our appre<g ref="char:EOLhyphen"/>henſions, how the evill and danger of the preſent Treaty may in good meaſure be avoyded, and our further conceptions of a way, wherein, hopefully through the bleſſing of God (if moſt men be not given up, ſome to unjuſt domination, or particular Intereſt, the reſt to ſervitude) the Kingdom may be quieted, future diſturban<g ref="char:EOLhyphen"/>ces prevented, the common Rights and Liberties provided for,
+<pb n="6" facs="tcp:162437:5"/>and the Peace and Government of the Kingdome ſetled, to a juſt publick Intereſt; and this wee have ſet forth in ſuch hands and particulars, which (if you'l but ſet aſide, for the time, leſſe importaint matters) may moſt of them be brought to effect, and the reſt aſſured, and put into a good way of effect, within a few Moneths, ſo as you might then eaſe the Kingdome from the burthen of the greateſt part of that force, which otherwiſe (in caſe of Accommodation with the King) you will be neceſſitated, for a much longer time (probable for many yeares) to keep on, upon the publick charge, unleſſe, upon the Ac<g ref="char:EOLhyphen"/>commodation you would give up all to the Kings power again, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d expoſe thoſe that have engaged againſt him, as ſacrifices to his and the Cavaliers Reveng: And (for our parts) let but that way of juſtice be effectually proſecuted and the ſettlement of publick Intereſt (upon which foun<g ref="char:EOLhyphen"/>dations as are afore propounded) be aſſured to us and the Kingdome, and put into a courſe of effect (and we ſhall not only imbrace with chearfullneſſe, but ſhall with ea<g ref="char:EOLhyphen"/>gern<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe deſire diſcharge from our preſent ſervice, and ſhall be moſt ready to disband all, or part, as ſhall be though ſit, the Arrears of the ſouldiers being ſatisfied.</p>
+         </div>
+         <div type="postscript">
+            <opener>
+               <dateline>
+                  <date>Novemb. 22. 1648.</date>
+               </dateline>
+            </opener>
+            <p>THere is a generall Report, that the Army is ingaged to expe<g ref="char:EOLhyphen"/>dite a Meſſage to his Meſſage, to advertiſe him of their pro<g ref="char:EOLhyphen"/>ceedings, and Overtures, for the executing of Juſtice, and bring of all Delinquents to a ſpeedy Tryall; to the end, that the enemies of peace, may be all remanded in, and the differences of this ſan<g ref="char:EOLhyphen"/>guiſhing Kingdom ſpeedily united and compoſed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
